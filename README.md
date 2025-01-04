@@ -31,8 +31,8 @@
 
 ## Recommended Books
 
-– [Machine Learning by Tom Mitchell](https://github.com/Thomson-Cui/CSDS-440-Machine-Learning/blob/main/Books/MachineLearningTomMitchell.pdf)
+[1] [Machine Learning by Tom Mitchell](https://github.com/Thomson-Cui/CSDS-440-Machine-Learning/blob/main/Books/MachineLearningTomMitchell.pdf)
 
-– [Pattern Recognition and Machine Learning by Christopher Bishop](https://github.com/Thomson-Cui/CSDS-440-Machine-Learning/blob/main/Books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+[2] [Pattern Recognition and Machine Learning by Christopher Bishop](https://github.com/Thomson-Cui/CSDS-440-Machine-Learning/blob/main/Books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-– [Deep Learning by Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
+[3] [Deep Learning by Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
