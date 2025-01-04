@@ -23,9 +23,11 @@
 
 11. Fairness and Bias in Machine Learning Algorithms
 
-## Assignments
+## Assignments and Team Projects
 
-## Teams projects
+[1] [Homeworks](https://github.com/cwru-courses/csds440-f24-1)
+
+[2] [Team Projects](https://github.com/cwru-courses/csds440project-f24-1)
 
 ## Recommended Books
 
